@@ -18,16 +18,9 @@ Objetivo: Desenvolver um sistema que gerencie a distribuição de refeições em
 Tecnologias: React (Frontend), Node.js (Backend), MySQL ou PostgreSQL.
 
 
-Sistema de Gestão de Reciclagem
-Objetivo: Uma plataforma para gerenciar a coleta e o destino de resíduos recicláveis, com alertas e relatórios.
-Tecnologias: Web (React, Vue), Backend (Node.js, Flask), Banco de Dados (MongoDB, MySQL).
-
-
 Sistema de Controle de Colaboradores para Pequenas Empresas
 Objetivo: Facilitar o controle de horários, folgas e salários de colaboradores em pequenas empresas, com geração de relatórios financeiros e de produtividade.
 Tecnologias: Vue.js (Frontend), Node.js (Backend), MongoDB ou MySQL.
 
 
-Aplicativo de Cuidados com Pets
-Objetivo: Criar um aplicativo para donos de pets, com funcionalidades para agendamento de consultas veterinárias, alimentação, cuidados e lembretes de vacina.
-Tecnologias: React Native, Firebase, Node.js.
+
